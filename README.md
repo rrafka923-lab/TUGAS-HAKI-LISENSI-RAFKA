@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/logo-teh-kataji.png" alt="Logo Teh Kataji" width="220">
+<img src="IMG-20261118-WA0005.jpg" alt="Logo Teh Kataji" width="220">
 
 # 🍵 TEH KATAJI
 
@@ -95,7 +95,7 @@ Perlindungan merek ditujukan untuk menjaga identitas komersial produk Teh Kataji
 
 <div align="center">
 
-<img src="assets/logo-teh-kataji.png" alt="Logo Resmi Teh Kataji" width="300">
+<img src="IMG-20261118-WA0005.jpg" alt="Logo Resmi Teh Kataji" width="300">
 
 *Gambar 1. Logo Identitas Merek Teh Kataji*
 
