@@ -8,7 +8,7 @@ Belajar menggunakan github
 3. Deskripsi Singkat Fungsi Aplikasi:
 Teh Kataji adalah aplikasi penjualan online yang dirancang untuk membantu pedagang UMKM dalam pencatatan transaksi penjualan secara _real-time_, pencetakan dan manajemen stok barang berbasis cloud Supabase.
 
-B. Analisis Perlindungan HAKI Produk
+<h1>B. Analisis Perlindungan HAKI Produk</h1>
 
 1. Hak Cipta _(Copyright)_:
    - Objek Yang Dilindungi:
